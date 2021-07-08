@@ -19,7 +19,6 @@ final class BladeFontistoIconsServiceProvider extends ServiceProvider
 
             $factory->add('fontisto-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeFontistoIconsServiceProvider extends ServiceProvider
             ], 'blade-fontisto-icons-config');
         }
     }
-
 }
