@@ -2,7 +2,10 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codetat3/blade-fontisto-icons/compare/1.0.0...main)
+## [Unreleased](https://github.com/codeat3/blade-fontisto-icons/compare/1.0.1...main)
+
+## 1.0.1 (2021-07-15)
+* typo fix the icon filename `famale` -> `female`
 
 ## 1.0.0 (2021-05-30)
 Initial release.
