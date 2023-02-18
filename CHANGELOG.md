@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-fontisto-icons/compare/1.2.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-fontisto-icons/compare/1.3.1...HEAD)
+
+## [1.3.1](https://github.com/codeat3/blade-fontisto-icons/compare/1.2.1...1.3.1) - 2023-02-18
+
+### What's Changed
+
+- Laravel 10 support by @swapnilsarwe in https://github.com/codeat3/blade-fontisto-icons/pull/5
+
+**Full Changelog**: https://github.com/codeat3/blade-fontisto-icons/compare/1.2.1...1.3.1
 
 ## [1.2.1](https://github.com/codeat3/blade-fontisto-icons/compare/1.1.1...1.2.1) - 2022-02-04
 
